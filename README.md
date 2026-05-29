@@ -86,7 +86,7 @@ See `recommendation.md` for the full qualitative write-up including confidence a
 pip install pandas numpy scipy statsmodels plotly
 
 # Launch the notebook
-jupyter notebook task_2.ipynb
+jupyter notebook ab_test.ipynb
 ```
 
 All cells are pre-executed and outputs are visible. Re-run from top to bottom for full reproducibility. The notebook reads from `ab_dataset.csv` — update `DATA_DIR` in Step 0 if your file path differs.
