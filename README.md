@@ -23,7 +23,7 @@ Data link https://drive.google.com/drive/folders/11gmcXKv0nnaEOi2VInvksz_qeOEGIe
 ## Project Structure
 
 ```
-ab_test.ipynb        ← Main analysis notebook (all steps executed)
+ab_test.ipynb         ← Main analysis notebook (all steps executed)
 recommendation.md     ← Standalone Step 6 recommendation write-up
 ```
 
